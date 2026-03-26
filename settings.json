@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "wisely1.aternos.me",
+    "ip": "bluefish.aternos.host:43231",
     "port": 43231,
     "version": "",
     "try-creative": false
